@@ -1,0 +1,16 @@
+{
+  "name": "SpeelKompas Templemars",
+  "short_name": "SpeelKompas",
+  "description": "Vind de beste speeltuinen in Templemars met age group filtering",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2ecc71",
+  "icons": [
+    {
+      "src": "icons/playground.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
